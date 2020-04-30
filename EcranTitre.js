@@ -38,7 +38,7 @@ if(space.isDown){
 	this.scene.start("Salle1");
 }
 	if(touchei.isDown){
-	dialogue.setText('Les autres épouventails sont devenus fou,\nil faut les stoper, approchez vous assez proche d\'eux puis appuyez sur espace pour les calmer.\nVous pouvez debloquer un heal plus tard dans le niveau, pour se soigner appuyez sur V!\nCertains vous enpecherons de passer avant d\'avoir fait fuire les autres !\nUne fois tous les objets rassemblés foncez sur le dernier d\'entre eux !\n (Espace pour partir les calmer !)');
+	dialogue.setText('Les autres épouventails sont devenus fous,\nil faut les stoper, approchez vous assez proche d\'eux puis appuyez sur espace pour les calmer.\nVous pouvez debloquer un heal plus tard dans le niveau, pour se soigner appuyez sur V!\nCertains vous empecheronspecherons de passer avant d\'avoir fait fuire les autres !\nUne fois tous les objets rassemblés foncez sur le dernier d\'entre eux !\n (Espace pour partir les calmer !)');
 		
 }
 	 
